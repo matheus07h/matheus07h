@@ -1,5 +1,5 @@
 ## Matheus Henrique
-### Desenvolvedor full-stack
+### Full-stack developer
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
